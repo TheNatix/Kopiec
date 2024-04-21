@@ -1,1 +1,2 @@
 # Kopiec
+Komentarze w kodzie
